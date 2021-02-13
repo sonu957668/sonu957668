@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif"  align="right" width="50%" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <h1 align="center">Hi 👋, I'm Sonu Kumar</h1>
 <h3 align="center">A passionate frontend developer,programmer from India</h3>
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://twitter.com/@sonukum30821798" target="blank"><img src="https://img.shields.io/twitter/follow/@sonukum30821798?logo=twitter&style=for-the-badge" alt="@sonukum30821798" /></a> </p>
 
 - 📫 How to reach me **sonu957668@gmail.com**
-
+<img src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif"  align="right" width="50%" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - ⚡ Fun fact **I think i am funny**
 
 <h3 align="left">Connect with me:</h3>
