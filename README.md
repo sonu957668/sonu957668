@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif"  align="right" width="50%" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif"  align="right" width="50%" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <h1 align="center">Hi 👋, I'm Sonu Kumar</h1>
 <h3 align="center">A passionate frontend developer,programmer from India</h3>
 
